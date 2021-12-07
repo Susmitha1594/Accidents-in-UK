@@ -7,6 +7,7 @@ Data was collected from government website of UK (https://data.gov.uk/dataset/cb
 1.	Road Safety - Accidents last 5 years
 2.	Road Safety - Vehicles last 5 years
 3.	Road Safety - Casualties last 5 years
+
 There is another excel file which is available that gives us information on all the Code values with their labels. That excel file is 'Road Safety Open Dataset Data Guide.xlsx' which is found under supporting documents on the website given above.
 Steps performed for analysis
 •	Data Collection
