@@ -9,12 +9,13 @@ Data was collected from government website of UK (https://data.gov.uk/dataset/cb
 3.	Road Safety - Casualties last 5 years
 
 There is another excel file which is available that gives us information on all the Code values with their labels. That excel file is 'Road Safety Open Dataset Data Guide.xlsx' which is found under supporting documents on the website given above.
-Steps performed for analysis
-•	Data Collection
-•	Data Pre-processing
-•	Data Visualization
-•	Data Modeling
-•	Evaluation of the results
+
+### Steps performed for analysis
+1. Data Collection
+2. Data Pre-processing
+3. Data Visualization
+4. Data Modeling
+5. Evaluation of the results
 
 ### Data Collection
 
