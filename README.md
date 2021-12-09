@@ -80,17 +80,17 @@ the dataset mostly consisted of code values and the labels for each code was pre
 
  <img width="399" alt="DV-9" src="https://user-images.githubusercontent.com/60418159/145453186-258aa338-ebd6-454c-859a-db6e77f02b5d.PNG">
     
-     Male population is more prone to accidents compared to Female population. There are about 33% of Female gender and 68% of Male gender who are prone to accidents.
+  Male population is more prone to accidents compared to Female population. There are about 33% of Female gender and 68% of Male gender who are prone to accidents.
     
  ![DV-10](https://user-images.githubusercontent.com/60418159/145453228-3cd0e85e-8685-4119-b941-135f281ba472.png)
 
-      We can see that the age band between 26-35 have highest count of accidents for both male and female genders. The second highest count is 36-45. So from this graph, I     can analyse that as the age reduces the accidents are being less.
+  We can see that the age band between 26-35 have highest count of accidents for both male and female genders. The second highest count is 36-45. So from this graph, I     can analyse that as the age reduces the accidents are being less.
  
  #### Maps
 
     <img width="939" alt="Map 1" src="https://user-images.githubusercontent.com/60418159/145453327-e3748f49-367a-4000-9553-6ff027c6f30c.png">
  
-    I used Folium and using Latitude and Longitude columns I potted the map to show where accidents have occurred. This can help us find the area where accidents frequently  occur, and necessary steps can be taken to prevent them. 
+   I used Folium and using Latitude and Longitude columns I potted the map to show where accidents have occurred. This can help us find the area where accidents frequently  occur, and necessary steps can be taken to prevent them. 
  
  ![map 2](https://user-images.githubusercontent.com/60418159/145453356-2f9bf582-ca2e-4580-ad58-41bcd74330c0.png)
  
