@@ -110,7 +110,7 @@ It is an easy and simple classifier to apply. It can handle working with both di
 
 <img width="452" alt="GNB" src="https://user-images.githubusercontent.com/60418159/145462986-e255b4f2-19ca-4416-b42e-a1813bac6329.png">
 
-The results shows that we got an accuracy of 63% which is not very great. Recall was about 63%, Precision was 87% and F1-Score being 63%. Coming on to confusion matrix it has predicted Slight more correctly than the rest but the prediction was less for the others. Overall the Accuracy is 63%. The time taken for execution is 591ms.
+The results shows that we got an accuracy of 63% which is not very great. Recall was about 63%, Precision was 87% and F1-Score being 63%. Coming on to confusion matrix it has predicted Slight more correctly than the rest but the prediction was less for the others. Overall the Accuracy is 63%. The time taken for execution is 236ms.
 
 #### KNN
 
@@ -118,7 +118,7 @@ K Nearest Neighbors (KNN) involves on getting data from the original data point 
   
 <img width="414" alt="KNN" src="https://user-images.githubusercontent.com/60418159/145463119-b3c32b16-cc0b-4ac1-98cd-6e23d9157e61.png">
 
-The results of KNN shows that the Accuracy is 76% which seems better than Naive Bayes. Recall, Precision and F1 scores all look approximately equal to 76%. True positives have also improved in prediction than above model. But the disadvantage lies when the execution time was taking longer. It took about 35mins for it to run. 
+The results of KNN shows that the Accuracy is 76% which seems better than Naive Bayes. Recall, Precision and F1 scores all look approximately equal to 76%. True positives have also improved in prediction than above model. But the disadvantage lies when the execution time was taking longer. It took about 46mins for it to run. 
 
 
 #### Logistic Regression
@@ -135,7 +135,7 @@ Decision Tree is one of the popular machine learning algorithms. It solves the p
 
 <img width="386" alt="DT" src="https://user-images.githubusercontent.com/60418159/145463263-1f6233a1-5712-4c30-a418-016a57fc85aa.png">
 
-The results from the Decision tree look great compared to all the above models with an Accuracy of 95% in predicting the Severity of accidents. Recall, Precision and F1-scores look good with 95% each. The time taken for the execution of the model is less with 104ms. 
+The results from the Decision tree look great compared to all the above models with an Accuracy of 95% in predicting the Severity of accidents. Recall, Precision and F1-scores look good with 95% each. The time taken for the execution of the model is less with 108ms. 
 
 #### Random Forest
 
@@ -152,7 +152,8 @@ Accidents in UK has given a lot of information from the analysis. From my analys
 
 Machine Learning Algorithms for Predicting Severity of Accidents: 
 
-Finally coming on to Predicting the Severity of Accidents. I did perform five Supervised algorithms which were Gaussian Naïve Bayes, KNN, Logistic Regression, Decision Tree and Random Forest Classifier. The accuracy for Gaussian Naïve Bayes was 63% and time for execution took about 591ms. Accuracy for KNN was 76% and the execution time was 35mins which was quite longer and might not be the best while checking accuracy every time as time consumption is more. In Logistic regression the accuracy was 78% and time for execution was 136ms. Decision Tree classifier gave an accuracy of 95% which is the best score out of all the algorithms and the time taken for execution is 104ms. Lastly, I worked on Random Tree Classifier which gave an accuracy of 96% and execution time was about 10s. From all the above results, the best prediction was given by Random Forest Classifier which gave the highest accuracy of 96% and the time taken was also 10s which was the least timing among all the execution time. So for the dataset Random Forest has given the highest accuracy in predicting the severity of accidents.
+Finally coming on to Predicting the Severity of Accidents. I did perform five Supervised algorithms which were Gaussian Naïve Bayes, KNN, Logistic Regression, Decision Tree and Random Forest Classifier. The accuracy for Gaussian Naïve Bayes was 63% and time for execution took about 236ms. Accuracy for KNN was 76% and the execution time was 46mins which was quite longer and might not be the best while checking accuracy every time as time consumption is more. In Logistic regression the accuracy was 78% and time for execution was 79ms. Decision Tree classifier gave an accuracy of 95% which is the best score out of all the algorithms and the time taken for execution is 108ms. Lastly, I worked on Random Tree Classifier which gave an accuracy of 96% and execution time was about 10s.
+From all the above analysis, the best prediction was given by Random Forest Classifier which gave the highest accuracy of 96% and the time taken was also 10s which was the least timing among all the execution time. So for the dataset Random Forest has given the highest accuracy in predicting the severity of accidents.
 
 
 
