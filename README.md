@@ -156,6 +156,23 @@ Finally coming on to Predicting the Severity of Accidents. I did perform five Su
 From all the above analysis, the best prediction was given by Random Forest Classifier which gave the highest accuracy of 96% and the time taken was also 10s which was the least timing among all the execution time. So for the dataset Random Forest has given the highest accuracy in predicting the severity of accidents.
 
 
+#### References
+
+1) https://medium.com/@himanshuit3036/supervised-learning-methods-using-python-bb85b8c4e0b7
+
+2) https://machinelearningmastery.com/naive-bayes-tutorial-for-machine-learning/
+
+3) https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+
+4) https://stats.stackexchange.com/questions/285834/difference-between-random-forests-and-decision-tree
+
+5) https://www.simplilearn.com/tutorials/machine-learning-tutorial/naive-bayes-classifier
+
+6) https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a
+
+7) https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04
+
+
 
  
  
