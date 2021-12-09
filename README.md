@@ -84,17 +84,17 @@ Looks like Slight severity has been the highest count and the least is Fatal sev
     
  ![DV-10](https://user-images.githubusercontent.com/60418159/145453228-3cd0e85e-8685-4119-b941-135f281ba472.png)
 
-  We can see that the age band between 26-35 have highest count of accidents for both male and female genders. The second highest count is 36-45. So from this graph, I     can analyse that as the age reduces the accidents are being less.
+  Age band between 26-35 have highest count of accidents for both male and female genders. The second highest count is 36-45. So from this graph, we can analyse that as the age reduces the accidents are being less.
  
  #### Maps
 
   <img width="939" alt="Map 1" src="https://user-images.githubusercontent.com/60418159/145453327-e3748f49-367a-4000-9553-6ff027c6f30c.png">
  
-   I used Folium and using Latitude and Longitude columns I potted the map to show where accidents have occurred. This can help us find the area where accidents frequently  occur, and necessary steps can be taken to prevent them. 
+   Using Folium and columns form the table Latitude and Longitude, I potted the map to show where accidents have occurred. This map gets stored as html file. I just placed a sample screeshot, but for full map I have placed in the documents list. This can help us find the area where accidents frequently  occur, and necessary steps can be taken to prevent them. We can see few spottings that
  
  ![map 2](https://user-images.githubusercontent.com/60418159/145453356-2f9bf582-ca2e-4580-ad58-41bcd74330c0.png)
  
- Map is presenting rural and urban areas. There were more accidents in urban area compared to rural.
+ Map is representing rural and urban areas. There were more accidents in urban area compared to rural areas.
  
  
 
