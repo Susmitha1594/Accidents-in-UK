@@ -102,9 +102,11 @@ Looks like Slight severity has been the highest count and the least is Fatal sev
  
  ### Data Modeling
  
-We will work on using few **Supervised Learning algorithms** to check the Accident Severity and to predict which model will give a better accuracy. It is very important to make sure the model predicts well beacuse there are high chances of geting into trouble if there are more False Negative, which means predicting an area which is prone to more accidents as negative. This can be dangerous. So here we have checked for Predicting the Severity of Accidents. After splitting the data in Train and Test sets we have performed few algortihms to check the prediction.
+We will work on using few **Supervised Learning algorithms** to check the Accident Severity and to predict which model will give a better accuracy. It is very important to make sure the model predicts well because there are high chances of getting into trouble if there are more False Negative, which means predicting an area which is prone to more accidents as negative. This can be dangerous. So here we have checked for Predicting the Severity of Accidents. After splitting the data in Train and Test sets, we have performed few algorithms to check the prediction.
 
 #### Gaussian Naive Bayes
+
+It is an easy and simple classifier to apply. It can handle working with both discrete and continuous data. It can be used to make real time predictions and the execution speed is quick.
 
 <img width="452" alt="GNB" src="https://user-images.githubusercontent.com/60418159/145462986-e255b4f2-19ca-4416-b42e-a1813bac6329.png">
 
@@ -112,6 +114,8 @@ The results shows that we got an accuracy of 63% which is not very great. Recall
 
 #### KNN
 
+K Nearest Neighbors (KNN) involves on getting data from the original data point to the closest datapoint based on the K datapoints. KNN has a good advantage even if we add new data in the middle as it chooses the closest data and doesn’t have to make another new model, the prediction gets adjusted accordingly. Using KNN model by selecting the n_neighbors as 4 to find the accuracy.
+  
 <img width="414" alt="KNN" src="https://user-images.githubusercontent.com/60418159/145463119-b3c32b16-cc0b-4ac1-98cd-6e23d9157e61.png">
 
 The results of KNN shows that the Accuracy is 76% which seems better than Naive Bayes. Recall, Precision and F1 scores all look approximately equal to 76%. True positives have also improved in prediction than above model. But the disadvantage lies when the execution time was taking longer. It took about 35mins for it to run. 
@@ -119,21 +123,27 @@ The results of KNN shows that the Accuracy is 76% which seems better than Naive 
 
 #### Logistic Regression
 
+Logistic Regression will perform well when the data is fit for it. It is very quick in classifying unknown records. 
+
 <img width="420" alt="LR" src="https://user-images.githubusercontent.com/60418159/145463204-89d737d1-1b82-41da-a695-e55b0750714d.png">
 
 The results from Logistic Regression are where Accuracy was 78%. Precision score was little less 67%. Recall and F1 Score was 78%. Accuracy score looks better compared to above two models.
 
 #### Decision Tree
 
+Decision Tree is one of the popular machine learning algorithms. It solves the problem by converting the data into tree format. Each node represents an attribute, and each leaf node represents a class label.
+
 <img width="386" alt="DT" src="https://user-images.githubusercontent.com/60418159/145463263-1f6233a1-5712-4c30-a418-016a57fc85aa.png">
 
-The results from the Decision tree look great compared to all the above models with an Accuracy of 95% in predicting the Severity of accidents. Recall, Precision and F1-scores look good with 95% each. The time taken for the execution of the model is pretty less with 104ms. 
+The results from the Decision tree look great compared to all the above models with an Accuracy of 95% in predicting the Severity of accidents. Recall, Precision and F1-scores look good with 95% each. The time taken for the execution of the model is less with 104ms. 
 
 #### Random Forest
 
+Random Forest classifier constructs a forest with an ensemble of decision trees. It works well with more categorical and numerical data. It implicitly performs feature selection and gives uncorrelated Decision trees. 
+
 <img width="442" alt="RF" src="https://user-images.githubusercontent.com/60418159/145463280-046107d1-912c-4342-aa24-f48804db15be.png">
 
-The results are that Accuracy is the highest of all the models including Decision Tree which is 96%. Recall, Precision and F1 scores are also high compared to all which shows that Random Model has given the best Accuracy Prediction to check Severity of Accidents. The time taken for execution is also very less 10s compared to all the models.
+The results are that Accuracy is the highest of all the models including Decision Tree which is 96%. Recall, Precision and F1 scores are also high compared to all which shows that Random Forest Model has given the best Accuracy Prediction to check Severity of Accidents. The time taken for execution is also very less 10s compared to all the models.
 
 
 ### Final Analysis
