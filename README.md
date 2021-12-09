@@ -26,3 +26,7 @@ I have used the three datasets which are available in the government website. Ac
 Since we have many rows and columns cleaning the data is the first step we do. Initial   step was to clean null values. So, I calculated the number of null values in each row the I removed few columns which had more null values and will not be useful for our analysis. The values in 
 the dataset mostly consisted of code values and the labels for each code was present in 'Road      Safety Open Dataset Data Guide.xlsx’, so using this code values I converted few columns to categorical values which would be helpful for Data Visualization.
 
+### Data Visualization
+
+* 1)	Around what time of the day do accidents occur the most
+
