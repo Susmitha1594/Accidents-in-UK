@@ -50,13 +50,13 @@ the dataset mostly consisted of code values and the labels for each code was pre
  
   ![DV-4](https://user-images.githubusercontent.com/60418159/145451898-230d236c-8563-4c6c-8309-78db779a8e3b.png)
 
-  Highest number of accidents occurred were on Friday and the next highest is Thursday. The least number of accidents occurred were on Sunday. Since most number of accidents occurred on Friday it means there are more number of people travelling on Friday due to weekend.
+ Highest number of accidents occurred were on Friday and the next highest is Thursday. The least number of accidents occurred were on Sunday. Since most number of accidents occurred on Friday it means there are more number of people travelling on Friday due to weekend.
  
  #### Total Number of Accidents on Yearly basis
 
   ![DV-5](https://user-images.githubusercontent.com/60418159/145452021-6a6e3f9a-250f-43e7-8385-2116b2cfac22.png)
 
-  There are more accidents in 2016, then the second highest was in 2018. The least number of accidents occurred in 2019. There were approximately above 300,000 number of accidents in 2016, but there was a drastic change in 2019 because the count was approximately below 150,000 which is less than half of what occurred in 2016. So the count of total accidents has reduced gradually compared to 2016, this means that there are necessary steps taken to prevent accidents from occurring, but there is a slight increase in 2020 as compared to 2019. The count can become less if there are more precautions taken.
+ There are more accidents in 2016, then the second highest was in 2018. The least number of accidents occurred in 2019. There were approximately above 300,000 number of accidents in 2016, but there was a drastic change in 2019 because the count was approximately below 150,000 which is less than half of what occurred in 2016. So the count of total accidents has reduced gradually compared to 2016, this means that there are necessary steps taken to prevent accidents from occurring, but there is a slight increase in 2020 as compared to 2019. The count can become less if there are more precautions taken.
  
  #### Total count of Severity of Accidents on yearly basis
  
