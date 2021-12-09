@@ -30,4 +30,7 @@ the dataset mostly consisted of code values and the labels for each code was pre
 
 * Around what time of the day do accidents occur the most.
 
+<img width="590" alt="DV-1" src="https://user-images.githubusercontent.com/60418159/145451007-3bac3f91-4bde-4f39-821c-997c117e28b5.PNG">
+
+I can see that most time of the day accidents occur is 'Working office hours (10-16)'. Looks like there are approximately above 350,000 count of accidents that have taken place in the Working Office Hours from 10am to 4pm. The second highest for count of accidents is around evening time from 6pm to 10pm. The least count of accidents occurred around nighttime from 10pm to 6am with a count of approximately 100,000. The final analysis from the above graph is as expected that during 10am to 4pm there is a more chance of people travelling a lot as it is office hours or school hours or business hours etc. So, we can clearly see even the count of accidents are morning during working hours.
 
