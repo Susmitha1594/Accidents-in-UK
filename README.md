@@ -62,13 +62,13 @@ the dataset mostly consisted of code values and the labels for each code was pre
  
    <img width="714" alt="DV6-1" src="https://user-images.githubusercontent.com/60418159/145452589-76d0ceac-5102-4d45-b609-e9247a7ee1d3.png">
  
-    I can see that there is a huge variation in Slight severity of accidents which was highest in 2016 and was low in 2019 whereas the Fatal and Serious count was approximately similar in all the years.
+ I can see that there is a huge variation in Slight severity of accidents which was highest in 2016 and was low in 2019 whereas the Fatal and Serious count was approximately similar in all the years.
  
  #### Total accidents that occur Monthly based on Severity
  
    <img width="739" alt="DV7-1" src="https://user-images.githubusercontent.com/60418159/145452614-35885137-df1e-4860-a609-abeb604f1921.png">
 
-    Looks like Slight severity has been the highest count and the least is Fatal severity. But when we compare on monthly basis when we move the cursor onto the lines, we can see that the number of accidents with 'Slight' severity have been increasing in the month of October and November, this could be due to holiday season and people are mostly prone to coming out. They have been low around the starting of the year.'Serious' and 'Fatal' are being consistent in every month throughout all the years.
+Looks like Slight severity has been the highest count and the least is Fatal severity. But when we compare on monthly basis when we move the cursor onto the lines, we can see that the number of accidents with 'Slight' severity have been increasing in the month of October and November, this could be due to holiday season and people are mostly prone to coming out. They have been low around the starting of the year.'Serious' and 'Fatal' are being consistent in every month throughout all the years.
 
 #### Road and weather Conditions subplots
 
