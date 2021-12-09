@@ -28,5 +28,6 @@ the dataset mostly consisted of code values and the labels for each code was pre
 
 ### Data Visualization
 
-* 1)	Around what time of the day do accidents occur the most
+* Around what time of the day do accidents occur the most.
+
 
