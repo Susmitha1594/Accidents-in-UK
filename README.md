@@ -88,7 +88,7 @@ the dataset mostly consisted of code values and the labels for each code was pre
  
  #### Maps
 
-    <img width="939" alt="Map 1" src="https://user-images.githubusercontent.com/60418159/145453327-e3748f49-367a-4000-9553-6ff027c6f30c.png">
+  <img width="939" alt="Map 1" src="https://user-images.githubusercontent.com/60418159/145453327-e3748f49-367a-4000-9553-6ff027c6f30c.png">
  
    I used Folium and using Latitude and Longitude columns I potted the map to show where accidents have occurred. This can help us find the area where accidents frequently  occur, and necessary steps can be taken to prevent them. 
  
