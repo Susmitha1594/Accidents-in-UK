@@ -155,6 +155,8 @@ Machine Learning Algorithms for Predicting Severity of Accidents:
 Finally coming on to Predicting the Severity of Accidents. I did perform five Supervised algorithms which were Gaussian Naïve Bayes, KNN, Logistic Regression, Decision Tree and Random Forest Classifier. The accuracy for Gaussian Naïve Bayes was 63% and time for execution took about 236ms. Accuracy for KNN was 76% and the execution time was 46mins which was quite longer and might not be the best while checking accuracy every time as time consumption is more. In Logistic regression the accuracy was 78% and time for execution was 79ms. Decision Tree classifier gave an accuracy of 95% which is the best score out of all the algorithms and the time taken for execution is 108ms. Lastly, I worked on Random Tree Classifier which gave an accuracy of 96% and execution time was about 10s.
 From all the above analysis, the best prediction was given by Random Forest Classifier which gave the highest accuracy of 96% and the time taken was also 10s which was the least timing among all the execution time. So for the dataset Random Forest has given the highest accuracy in predicting the severity of accidents.
 
+This analysis can be helpful for either police department or government of UK in taking necessary steps and to reduce the number of accidents from occuring.
+
 
 #### References
 
